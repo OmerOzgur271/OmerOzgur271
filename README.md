@@ -1,10 +1,10 @@
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+# Omer Ozgur
+As a machine learning professional I have a strong passion for developing scientific data models and reports. I have experience in many fields, from drug discovery to predicting maintenance of jet engines. With Data Science experience I can also perform advanced analytics to large data sets. Hard skils: Python, SQL, AWS, Drug discovery, Bioinformatics, Predictive maintenance.
 
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+* ⚛ Machine Learning
+* ⚛ Medical Data Science
+* 💻 Python,Sql
 
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
