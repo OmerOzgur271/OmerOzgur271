@@ -7,4 +7,4 @@ As a machine learning professional I have a strong passion for developing scient
 * 💻 Python,Sql
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/OmerOzgur271/FluAI-Prototype/blob/main/images/FluAI3.jpg" width="512" >
