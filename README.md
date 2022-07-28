@@ -4,7 +4,7 @@ As a machine learning professional I have a strong passion for developing scient
 ## Skills and Experience
 * ⚛ Machine Learning
 * ⚛ Medical Data Science
-* ⚛ Medical Data Science
+* ⚛ Deeplearning on Lifesciences
 * 💻 Python,SQL
 * 💻 AWS,GCP
 
