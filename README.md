@@ -4,8 +4,9 @@ As a machine learning professional I have a strong passion for developing scient
 ## Skills and Experience
 * ⚛ Machine Learning
 * ⚛ Medical Data Science
+* ⚛ Medical Data Science
 * 💻 Python,SQL
 * 💻 AWS,GCP
 
 ## Examples of Work
-<img src="https://github.com/OmerOzgur271/FluAI-Prototype/blob/main/images/FluAI3.jpg" width="512" >
+<img src="https://github.com/OmerOzgur271/FluAI-Prototype/blob/main/images/FluAI3.jpg" width="412" height="412" >
