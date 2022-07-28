@@ -10,3 +10,4 @@ As a machine learning professional I have a strong passion for developing scient
 
 ## Examples of Work
 <img src="https://github.com/OmerOzgur271/FluAI-Prototype/blob/main/images/FluAI3.jpg" width="412" height="412" >
+<img src="https://github.com/OmerOzgur271/Eyecheck/blob/main/visresul.jpg" width="412" height="412" >
