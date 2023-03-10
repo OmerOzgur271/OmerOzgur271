@@ -17,7 +17,6 @@ As a machine learning professional I have a strong passion for developing scient
 
 ## Examples of Work
 <img src="https://github.com/OmerOzgur271/FluAI-Prototype/blob/main/images/FluAI3.jpg" width="380" height="380" > <img src="https://github.com/OmerOzgur271/Eyecheck/blob/main/visresul.jpg" width="380" height="380" ><img src="https://github.com/OmerOzgur271/Eyecheckup/blob/main/segmentation.png" width="370" height="370" >
-
-
+<img src="https://github.com/OmerOzgur271/Eyecheckup/blob/main/0*r2WnTgs0aRw4K2Mq.webp" width="370" height="370" >
 
 
