@@ -5,7 +5,7 @@ As a machine learning professional I have a strong passion for developing scient
 
 ## Skills and Experience
 * ⚛ Computer Vision
-* ⚛ Time series analysis
+* ⚛ Prompt Engineering
 * ⚛ Natural language processing
 * ⚛ Medical Data Science
 * ⚛ Deeplearning on Lifesciences
