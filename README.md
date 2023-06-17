@@ -1,5 +1,10 @@
 # Omer Ozgur
-As a machine learning professional I have a strong passion for developing scientific data models and reports. I actively use Deep learning and Machine Learning libraries such as Tensorflow, Keras, Scikit-learn libraries and DNN, CNN, ANN, RNN networks etc. I also made plenty of projects for face/image/object recognition and detection, Text classification and sentiment analysis, deployment of microservices and CI/CD of projects.
+I've recently expanded my expertise to embrace the potential of Large Language Models (LLMs) with a focus on state-of-the-art technologies such as ChatGPT and LangChain​. I find the concept of prompt engineering particularly intriguing, as it embeds the task description directly within the AI input​.
+
+I have a wealth of experience in applying machine learning libraries like Tensorflow, Keras, and Scikit-learn to a range of projects. My portfolio includes applications for image and text analysis, microservices deployment, and CI/CD pipeline implementation.
+
+My technical skills include Python, SQL, AWS, GCP, Docker, NLP, MLOps, Prompt engineering Bioinformatics, and Predictive maintenance. 
+I am always on the lookout for innovative technologies and methodologies to deliver state-of-the-art solutions.
 
 
 
