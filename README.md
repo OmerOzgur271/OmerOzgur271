@@ -22,6 +22,6 @@ I am always on the lookout for innovative technologies and methodologies to deli
 
 ## Examples of Work
 <img src="https://github.com/OmerOzgur271/FluAI-Prototype/blob/main/images/FluAI3.jpg" width="380" height="380" > <img src="https://github.com/OmerOzgur271/Eyecheck/blob/main/visresul.jpg" width="380" height="380" ><img src="https://github.com/OmerOzgur271/Eyecheckup/blob/main/pred2.png" width="400" height="370" >
-<img src="https://github.com/OmerOzgur271/FashionAI/blob/main/Results/ss1.png" width="400" height="370" >
+<img src="https://github.com/OmerOzgur271/FashionAI/blob/main/Results/ss1.png" width="390" height="370" >
 
 
