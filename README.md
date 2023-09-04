@@ -1,5 +1,5 @@
 # Omer Ozgur
-I've recently expanded my expertise to embrace the potential of Large Language Models (LLMs) with a focus on state-of-the-art technologies such as ChatGPT and LangChain​. I find the concept of prompt engineering particularly intriguing, as it embeds the task description directly within the AI input​.
+I've  expanded my expertise to embrace the potential of Large Language Models (LLMs) with a focus on state-of-the-art technologies such as ChatGPT and LangChain​. I find the concept of prompt engineering particularly intriguing, as it embeds the task description directly within the AI input​. I have hands-on experience fine-tuning Stable Diffusion using techniques like LoRA and textual inversion. This allows adapting the model to generate high-quality images reflecting specific concepts and art styles. I leverage tools like Automatic1111 to streamline training image datasets, text embeddings, hyperparameter tuning and sampling.
 
 I have a wealth of experience in applying machine learning libraries like Tensorflow, Keras, and Scikit-learn to a range of projects. My portfolio includes applications for image and text analysis, microservices deployment, and CI/CD pipeline implementation.
 
