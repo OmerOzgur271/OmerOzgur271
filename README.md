@@ -6,8 +6,6 @@ I have hands-on experience fine-tuning Stable Diffusion using techniques like Lo
 My work centers on building and deploying advanced deep learning models, especially for computer vision tasks like image classification, segmentation and object detection. I also have significant experience fine-tuning large pre-trained language models for a variety of natural language processing applications. My expertise involves adapting these state-of-the-art models to enhance their performance on specific use cases and implement them in practical systems.
 
 My technical skills include Python, SQL, AWS, GCP, Docker, HuggingFace, Generative AI, MLOps, Prompt engineering, LangChain, Kubernetes
- https://github.com/OmerOzgur271
-
 
 
 ## Skills and Experience
