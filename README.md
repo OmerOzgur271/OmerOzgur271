@@ -1,10 +1,12 @@
 # Omer Ozgur
-I've  expanded my expertise to embrace the potential of Large Language Models (LLMs) with a focus on state-of-the-art technologies such as ChatGPT and LangChain​. I find the concept of prompt engineering particularly intriguing, as it embeds the task description directly within the AI input​. I have hands-on experience fine-tuning Stable Diffusion using techniques like LoRA and textual inversion. This allows adapting the model to generate high-quality images reflecting specific concepts and art styles. I leverage tools like Automatic1111 to streamline training image datasets, text embeddings, hyperparameter tuning and sampling.
+Software engineer focused on computer vision, LLM's and MLops.
 
-I have a wealth of experience in applying machine learning libraries like Tensorflow, Keras, and Scikit-learn to a range of projects. My portfolio includes applications for image and text analysis, microservices deployment, and CI/CD pipeline implementation.
+I have hands-on experience fine-tuning Stable Diffusion using techniques like LoRA and textual inversion. This allows adapting the model to generate high-quality images reflecting specific concepts and art styles. I leverage tools like Automatic1111 to streamline training image datasets, text embeddings, hyperparameter tuning and sampling.
 
-My technical skills include Python, SQL, AWS, GCP, Docker, NLP, MLOps, Prompt engineering Bioinformatics, and Predictive maintenance. 
-I am always on the lookout for innovative technologies and methodologies to deliver state-of-the-art solutions.
+My work centers on building and deploying advanced deep learning models, especially for computer vision tasks like image classification, segmentation and object detection. I also have significant experience fine-tuning large pre-trained language models for a variety of natural language processing applications. My expertise involves adapting these state-of-the-art models to enhance their performance on specific use cases and implement them in practical systems.
+
+My technical skills include Python, SQL, AWS, GCP, Docker, HuggingFace, Generative AI, MLOps, Prompt engineering, LangChain, Kubernetes
+ https://github.com/OmerOzgur271
 
 
 
