@@ -3,9 +3,9 @@ Software engineer focused on computer vision, LLM's and MLops.
 
 I have hands-on experience fine-tuning Stable Diffusion using techniques like LoRA and textual inversion. This allows adapting the model to generate high-quality images reflecting specific concepts and art styles. I leverage tools like Automatic1111 to streamline training image datasets, text embeddings, hyperparameter tuning and sampling.
 
-My work centers on building and deploying advanced deep learning models, especially for computer vision tasks like image classification, segmentation and object detection. I also have significant experience fine-tuning large pre-trained language models for a variety of natural language processing applications. My expertise involves adapting these state-of-the-art models to enhance their performance on specific use cases and implement them in practical systems.
+My work centers on building and deploying advanced deep learning models, especially for computer vision tasks like image classification, segmentation and object detection. I also have significant experience fine-tuning large pre-trained language models for a variety of natural language processing applications. I have successfully built a low latency, high capability LLM inference architecture on AWS SageMaker . My expertise involves adapting these state-of-the-art models to enhance their performance on specific use cases and implement them in practical systems.
 
-My technical skills include Python, SQL, AWS, GCP, Docker, HuggingFace, Generative AI, MLOps, Prompt engineering, LangChain, Kubernetes
+My technical skills include Python, SQL, AWS, GCP, Azure, Databricks, Docker, HuggingFace, Generative AI, MLOps, LLMOps, Prompt engineering, LangChain, LlamaIndex, vector databases, Kubernetes
 
 
 ## Skills and Experience
