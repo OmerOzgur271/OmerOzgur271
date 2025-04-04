@@ -24,7 +24,7 @@ My technical skills include Python, SQL, AWS, Vertex AI, GCP, Azure, HuggingFace
   <img src="https://github.com/OmerOzgur271/FluAI-Prototype/blob/main/images/FluAI3.jpg" width="380" height="380" />
   <img src="https://github.com/OmerOzgur271/Eyecheck/blob/main/visresul.jpg" width="380" height="380" /> 
   <img src="https://github.com/OmerOzgur271/LLM_System_Design/blob/main/llm2-3.png" width="380" height="350" />
-  <img src="https://github.com/OmerOzgur271/FashionAI/blob/main/Results/ss1.png" width="380" height="370" />
+  <img src="https://github.com/OmerOzgur271/LLM_System_Design/blob/main/crag.png" width="380" height="370" />
 </p>
 
 
