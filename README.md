@@ -1,11 +1,11 @@
 # Omer Ozgur
 Software engineer focused on computer vision, LLM's and MLops.
 
-I have hands-on experience fine-tuning Stable Diffusion using techniques like LoRA and textual inversion. This allows adapting the model to generate high-quality images reflecting specific concepts and art styles. I leverage tools like Automatic1111 to streamline training image datasets, text embeddings, hyperparameter tuning and sampling.
+My work centers on building and deploying advanced deep learning models, especially for computer vision and natural language tasks. I also have significant experience fine-tuning large pre-trained language models for a variety of natural language processing applications.I have successfully built a low latency, high capability LLM inference architecture on AWS SageMaker, and implemented distributed multi-node, multi-GPU training of LLMs.
 
-My work centers on building and deploying advanced deep learning models, especially for computer vision tasks like image classification, segmentation and object detection. I also have significant experience fine-tuning large pre-trained language models for a variety of natural language processing applications. I have successfully built a low latency, high capability LLM inference architecture on AWS SageMaker . My expertise involves adapting these state-of-the-art models to enhance their performance on specific use cases and implement them in practical systems.
+My expertise involves adapting these state-of-the-art models to enhance their performance on specific use cases and implement them in practical systems to solve real world problems. I spearheaded the development of advanced super agents tailored for financial applications, designing custom tools and functions to enhance their decision-making capabilities and automate complex financial tasks.
 
-My technical skills include Python, SQL, AWS, GCP, Azure, Databricks, Docker, HuggingFace, Generative AI, MLOps, LLMOps, Prompt engineering, LangChain, LlamaIndex, vector databases, Kubernetes
+My technical skills include Python, SQL, AWS, Vertex AI, GCP, Azure, HuggingFace, Generative AI, MLOps, LLMOps, Prompt engineering, Advanced RAG, LangChain, LlamaIndex, LangGraph, CrewAI, OpenAI, Claude, GPT-4o, OpenAI o3-mini , Gemini, Deepseek, Docker, Kubernetes, DeepSpeed, CUDA , FastAPI
 
 
 ## Skills and Experience
